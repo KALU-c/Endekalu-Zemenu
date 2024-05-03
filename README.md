@@ -44,7 +44,7 @@
 <div align="center">
 <a href="https://github.com/endekalu-zemenu">
   
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=endekalu-zemenu&theme=2077" height="180em"/>
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=endekalu-zemenu&theme=2077" height="180em"/> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endekalu-zemenu&theme=2077" height="180em" />
 
 </div>
