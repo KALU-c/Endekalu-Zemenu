@@ -42,8 +42,8 @@
 
 
 <!--<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />-->
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endekalu-zemenu&layout=compact&theme=highcontrast" alt=endekalu-zemenu />
+<h3 align="center">Stars</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endekalu-zemenu&layout=compact&theme=highcontrast" alt=endekalu-zemenu />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=endekalu-zemenu&theme=highcontrast" alt="endekalu-zemenu" /></p>
 
