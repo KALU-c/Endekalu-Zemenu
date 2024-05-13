@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Endekalu Zemenu</h1>
-
-
+<p align="center">
+  <a href="https://t.me/Real_Kal"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+full-stack+Web+developer;I+am+a+software+engineer;I+am+currently+learning+new+technologies;I+am+open+to+collaborate+or+to+work;&center=true&width=500&height=30"></a>
+</p>
 
 - 🌱 I’m currently learning **React, Dart and Java**
 - 💬 Ask me about **React, express and JavaScript**
@@ -12,7 +13,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -42,17 +43,18 @@
 
 
 <!--<img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />-->
-<h3 align="left">Stars</h3>
+<h3 align="left"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endekalu-zemenu&layout=compact&theme=highcontrast" alt=endekalu-zemenu />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=endekalu-zemenu&theme=highcontrast" alt="endekalu-zemenu" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="left"><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics</h3>
 <div align="center">
 <a href="https://github.com/endekalu-zemenu">
   
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=endekalu-zemenu&theme=2077" height="180em"/> -->
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endekalu-zemenu&theme=2077" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=endekalu-zemenu&theme=2077" height="180em" />
 
 </div>
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
