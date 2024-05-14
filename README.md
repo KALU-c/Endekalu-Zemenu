@@ -4,7 +4,7 @@
   <a href="https://t.me/Real_Kal"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+full-stack+Web+developer;I+am+a+software+engineer;I+am+currently+learning+new+technologies;I+am+open+to+collaborate+or+to+work;&center=true&width=500&height=30"></a>
 </p>
 
-- 🌱 I’m currently learning **React, Dart and Java**
+- 🌱 I’m currently learning **React and Express**
 - 💬 Ask me about **React, express and JavaScript**
 - 📫 How to reach me **endekaluzemenu2134@gmail.com**
 
