@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Endekalu Zemenu</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://t.me/Real_Kal"><img src="https://readme-typing-svg.herokuapp.com?lines=I+am+a+full-stack+Web+developer;I+am+a+software+engineer;I+am+currently+learning+new+technologies;I+am+open+to+collaborate+or+to+work;&center=true&width=500&height=30"></a>
-</p>
+</p> -->
 
 - 🌱 I’m currently learning **React and Express**
 - 💬 Ask me about **React, express and JavaScript**
