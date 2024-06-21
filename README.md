@@ -6,7 +6,7 @@
 
 ## Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,express,git,html,htmx,js,mongodb,nodejs,npm,react,tailwind,ts,vite" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,cpp,java,css,express,git,html,htmx,js,mongodb,nodejs,npm,react,tailwind,ts,postgresql,vite" alt="Technologies" />
 </p>
 
 ## Tools
