@@ -11,7 +11,7 @@
 
 ## Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,vscode,github" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode" alt="Tools" />
 </p>
 
 ## Operating Systems
